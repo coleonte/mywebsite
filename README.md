@@ -8,3 +8,4 @@ The resume has 4 sections: work, education,  and a header with my bio. It also h
 
 
 
+update: it's a desktop version but I will try to adapt it for the mobile version as well
